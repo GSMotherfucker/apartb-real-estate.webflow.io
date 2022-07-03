@@ -4140,10 +4140,20 @@ blockquote {
     font-weight: 600;
 }
 
+.blue-heading-2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #d7ab1a;
+    font-size: 22px;
+    padding: -10px;
+    font-weight: 600;
+}
+
 .slide-paragraph {
     font-family: Poppins, sans-serif;
-    color: #222;
+    color: #f1f2f3;
     font-size: 16px;
+    margin-top: 5%;
     line-height: 1.55;
     letter-spacing: 0.2px;
 }
